@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @Mahimaverma25
-- 👀 I’m interested in technology and computer science...
-- 🌱 I’m currently learning BCA 2nd year student...
-- 😄 Pronouns: She/her...
+- 👋 Hi, I’m Mahima Verma
+A Passionate software developer from India
+          About Me:
+  I'm currently pursuning Bachelors of computer Application (BCA) from University of Allahabad.
+  I'm currently wxploring the world of Android App Development using the HTML CSS and JAVASCRIPT and JAVA programming language as core.
+         How to reach me
+  work.mahimaverma@gamil.com
 
-
-<!---
-Mahimaverma25/Mahimaverma25 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+  I love programming
