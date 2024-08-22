@@ -6,4 +6,4 @@ A Passionate software developer from India
          How to reach me
   work.mahimaverma@gamil.com
 
-  I love programming
+  I love programming.
