@@ -37,7 +37,6 @@ also exploring AI/ML with Python and Its libraries. And In Future I also want to
 <div style="background: linear-gradient(45deg, #12c2e9, #c471ed, #f64f59); padding: 20px; border-radius: 10px; margin: 20px 0;">
 
 
-
 ## 💻 Tech Stack & Tools | APP & Web Development
 <p align="center">
   <img src="https://img.shields.io/badge/Tech%20Journey-In%20Progress-brightgreen?style=for-the-badge&logo=rocket&logoColor=white" alt="Technology Journey"/>
