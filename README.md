@@ -16,7 +16,7 @@
 
 ---
 
-## 👋 Introduction | Front End Developer
+## 👋 Introduction | FullStack Developer
 
 I'm Mahima Verma, a passionate FullStack developer currently pursuing a BCA at the University of Allahabad. 
 I specialize in building websites using HTML, CSS, JS Node.js, Express.js, React.js, MongoDb, etc. And
